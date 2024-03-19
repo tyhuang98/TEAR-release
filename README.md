@@ -2,7 +2,7 @@
 
 Implementation of the paper:
 
-[Scalable 3D Registration via Truncated Entry-wise Absolute Residuals](CVPR 2024).
+[Scalable 3D Registration via Truncated Entry-wise Absolute Residuals] (CVPR 2024).
 
 ## Citation
 
