@@ -47,7 +47,6 @@ endif ()
 
 
 # Change this line to include your own executable file
-#add_executable(TEAR test_scalability.cpp)
 add_executable(TEAR demo.cpp)
 target_link_libraries(TEAR ${PROJECT_NAME}_lib)
 
