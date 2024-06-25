@@ -4,7 +4,7 @@ Implementation of the paper:
 
 [Scalable 3D Registration via Truncated Entry-wise Absolute Residuals] (CVPR 2024).
 
-To apply this algorithm to your data, you may need to adjust the noise_bound and BRANCH_ACCURACY. For example, smaller BRANCH_ACCURACY leads to higher performance but require more time cost.
+To apply this algorithm to your data, you may need to adjust the noise_bound and BRANCH_ACCURACY. For example, smaller BRANCH_ACCURACY leads to higher accuracy but require more time cost.
 
 
 ## Citation
