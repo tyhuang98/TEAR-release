@@ -10,10 +10,11 @@ To apply this algorithm to your data, you may need to adjust the noise_bound and
 ## Citation
 
 ```bibtex
-@InProceedings{Huang_2024_CVPR,
-    author       = {Huang, Tianyu and Peng, Liangzu and Vidal, Ren\'e and Liu, Yun-Hui},
-    title        = {Scalable 3D Registration via Truncated Entry-wise Absolute Residuals},
-    booktitle    = {IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
-    year         = {2024}
+@inproceedings{huang2024scalable,
+  title={Scalable 3d registration via truncated entry-wise absolute residuals},
+  author={Huang, Tianyu and Peng, Liangzu and Vidal, Ren{\'e} and Liu, Yun-Hui},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={27477--27487},
+  year={2024}
 }
 ```
