@@ -18,3 +18,6 @@ To apply this algorithm to your data, you may need to adjust the noise_bound and
   year={2024}
 }
 ```
+
+## Our another work regarding 3D registration
+[Efficient and Robust Point Cloud Registration via Heuristics-guided Parameter Search](https://github.com/tyhuang98/HERE-release) (T-PAMI 2024)
